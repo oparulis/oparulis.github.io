@@ -1,2 +1,2 @@
 # oparulis.github.io
-Example Website
+Olivia Parulis' Portfolio Website
